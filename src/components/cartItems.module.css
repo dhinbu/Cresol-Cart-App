@@ -1,0 +1,23 @@
+
+
+.container{
+   
+    right: 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width : 350px;
+    height: 50px;
+    
+}
+
+.cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.image{
+    width : 50px
+}
